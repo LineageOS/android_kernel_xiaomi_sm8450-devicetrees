@@ -1,5 +1,6 @@
 #include "waipio-sde-display.dtsi"
 #include "dsi-panel-l2-38-0c-0a-dsc-cmd.dtsi"
+#include "dsi-panel-l2-38-0c-0a-dsc-cmd-res-fhd.dtsi"
 
 &soc {
 	dsi_panel_pwr_supply_L2: dsi_panel_pwr_supply_L2 {
@@ -95,6 +96,48 @@
 		};
 		/* WQHD 1hz */
 		timing@wqhd_1hz_index_07{
+			qcom,mdss-dsi-panel-phy-timings = [00 2B 0C 0C 1C 26 0C
+				0C 0B 02 04 00 24 11];
+			qcom,display-topology = <2 2 1>;
+			qcom,default-topology-index = <0>;
+		};
+		/* FHD 120Hz */
+		timing@fhd_120hz_index_08{
+			qcom,mdss-dsi-panel-phy-timings = [00 2B 0C 0C 1C 26 0C
+				0C 0B 02 04 00 24 11];
+			qcom,display-topology = <2 2 1>;
+			qcom,default-topology-index = <0>;
+		};
+		/* FHD 90hz */
+		timing@fhd_90hz_index_09{
+			qcom,mdss-dsi-panel-phy-timings = [00 2B 0C 0C 1C 26 0C
+				0C 0B 02 04 00 24 11];
+			qcom,display-topology = <2 2 1>;
+			qcom,default-topology-index = <0>;
+		};
+		/* FHD 60hz */
+		timing@fhd_60hz_index_10{
+			qcom,mdss-dsi-panel-phy-timings = [00 2B 0C 0C 1C 26 0C
+				0C 0B 02 04 00 24 11];
+			qcom,display-topology = <2 2 1>;
+			qcom,default-topology-index = <0>;
+		};
+		/* FHD 30hz */
+		timing@fhd_30hz_index_11{
+			qcom,mdss-dsi-panel-phy-timings = [00 2B 0C 0C 1C 26 0C
+				0C 0B 02 04 00 24 11];
+			qcom,display-topology = <2 2 1>;
+			qcom,default-topology-index = <0>;
+		};
+		/* FHD 10hz */
+		timing@fhd_10hz_index_12{
+			qcom,mdss-dsi-panel-phy-timings = [00 2B 0C 0C 1C 26 0C
+				0C 0B 02 04 00 24 11];
+			qcom,display-topology = <2 2 1>;
+			qcom,default-topology-index = <0>;
+		};
+		/* FHD 1hz */
+		timing@fhd_1hz_index_13{
 			qcom,mdss-dsi-panel-phy-timings = [00 2B 0C 0C 1C 26 0C
 				0C 0B 02 04 00 24 11];
 			qcom,display-topology = <2 2 1>;

@@ -1,7 +1,8 @@
 &dsi_l2_38_0c_0a_dsc_cmd {
 		qcom,mdss-dsi-display-timings {
-			timing@fhd_120hz_index_06 {
+			timing@fhd_120hz_index_08 {
 				#include "dsi-panel-l2-38-0c-0a-dsc-cmd-common.dtsi"
+				cell-index = <8>;
 				qcom,mdss-dsi-panel-framerate = <120>;
 				qcom,mdss-dsi-panel-width = <1080>;
 				qcom,mdss-dsi-panel-height = <2400>;
@@ -195,8 +196,9 @@
 				qcom,mdss-dsc-block-prediction-enable;
 			};
 
-			timing@fhd_90hz_index_07 {
+			timing@fhd_90hz_index_09 {
 				#include "dsi-panel-l2-38-0c-0a-dsc-cmd-common.dtsi"
+				cell-index = <9>;
 				qcom,mdss-dsi-panel-framerate = <90>;
 				qcom,mdss-dsi-panel-width = <1080>;
 				qcom,mdss-dsi-panel-height = <2400>;
@@ -428,8 +430,9 @@
 				qcom,mdss-dsc-block-prediction-enable;
 			};
 
-			timing@fhd_60hz_index_08 {
+			timing@fhd_60hz_index_10 {
 				#include "dsi-panel-l2-38-0c-0a-dsc-cmd-common.dtsi"
+				cell-index = <10>;
 				qcom,mdss-dsi-panel-framerate = <60>;
 				qcom,mdss-dsi-panel-width = <1080>;
 				qcom,mdss-dsi-panel-height = <2400>;
@@ -625,8 +628,9 @@
 				qcom,mdss-dsc-block-prediction-enable;
 			};
 
-			timing@fhd_30hz_index_09 {
+			timing@fhd_30hz_index_11 {
 				#include "dsi-panel-l2-38-0c-0a-dsc-cmd-common.dtsi"
+				cell-index = <11>;
 				qcom,mdss-dsi-panel-framerate = <30>;
 				qcom,mdss-dsi-panel-width = <1080>;
 				qcom,mdss-dsi-panel-height = <2400>;
@@ -824,8 +828,9 @@
 				qcom,mdss-dsc-block-prediction-enable;
 			};
 
-			timing@fhd_10hz_index_10 {
+			timing@fhd_10hz_index_12 {
 				#include "dsi-panel-l2-38-0c-0a-dsc-cmd-common.dtsi"
+				cell-index = <12>;
 				qcom,mdss-dsi-panel-framerate = <120>;
 				qcom,mdss-dsi-panel-width = <1080>;
 				qcom,mdss-dsi-panel-height = <2400>;
@@ -1048,8 +1053,9 @@
 				qcom,mdss-dsc-block-prediction-enable;
 			};
 
-			timing@fhd_1hz_index_11 {
+			timing@fhd_1hz_index_13 {
 				#include "dsi-panel-l2-38-0c-0a-dsc-cmd-common.dtsi"
+				cell-index = <13>;
 				qcom,mdss-dsi-panel-framerate = <120>;
 				qcom,mdss-dsi-panel-width = <1080>;
 				qcom,mdss-dsi-panel-height = <2400>;
