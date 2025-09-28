@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fbf2c8af_e4174e51",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35507
+      },
+      "writtenOn": "2025-09-28T02:28:40Z",
+      "side": 1,
+      "message": "To fix 0a panel after 5s screen goes off in AOD mode.",
+      "revId": "e0603cf6c977f6182d3ca9631281d399bf0ed67a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
