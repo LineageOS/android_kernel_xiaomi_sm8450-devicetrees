@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bf3ff0b2_6ef1ab0b",
+        "filename": "qcom/camera/config/waipio.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-12-14T20:26:20Z",
+      "side": 1,
+      "message": "keep the empty line",
+      "revId": "4cdcb944f6702bba12c184b3d931a7f24540baf3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
