@@ -94,6 +94,30 @@
       },
       "revId": "ab4e5852b9231ae82d652cb3409ca9f5c80efd57",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "861d0c31_5eec90fa",
+        "filename": "qcom/ingres-sm8450.dtsi",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 36097
+      },
+      "writtenOn": "2025-12-20T13:34:39Z",
+      "side": 1,
+      "message": "uh, ok, so i should revert it back to awinic_haptic and change it in other commit?",
+      "parentUuid": "c1449398_2cf35acd",
+      "range": {
+        "startLine": 14,
+        "startChar": 23,
+        "endLine": 14,
+        "endChar": 37
+      },
+      "revId": "ab4e5852b9231ae82d652cb3409ca9f5c80efd57",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
