@@ -70,6 +70,30 @@
       },
       "revId": "ab4e5852b9231ae82d652cb3409ca9f5c80efd57",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c1449398_2cf35acd",
+        "filename": "qcom/ingres-sm8450.dtsi",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-12-20T12:49:02Z",
+      "side": 1,
+      "message": "What, no. Goodix was right in the commit message, but the awinic vibrator compatible change in line 14 doesn\u0027t belong into this commit.",
+      "parentUuid": "8770ffb7_1cdbdafa",
+      "range": {
+        "startLine": 14,
+        "startChar": 23,
+        "endLine": 14,
+        "endChar": 37
+      },
+      "revId": "ab4e5852b9231ae82d652cb3409ca9f5c80efd57",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
