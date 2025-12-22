@@ -16,6 +16,24 @@
       "message": "zeus?",
       "revId": "4568a29cc48c0489f904efce894250dad93cd372",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6f122a16_4bc60a0d",
+        "filename": "qcom/camera/ingres-sm8450-camera-sensor.dts",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 36097
+      },
+      "writtenOn": "2025-12-22T11:57:08Z",
+      "side": 1,
+      "message": "https://github.com/MiCode/kernel_devicetree/blob/ziyi-s-oss/camera-devicetree/ingres-sm8450-camera-sensor.dts\n\nWill change that to ingres later.",
+      "parentUuid": "99a1339d_e7dc6f9b",
+      "revId": "4568a29cc48c0489f904efce894250dad93cd372",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
