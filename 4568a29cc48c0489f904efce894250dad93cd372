@@ -34,6 +34,24 @@
       "parentUuid": "99a1339d_e7dc6f9b",
       "revId": "4568a29cc48c0489f904efce894250dad93cd372",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "503e942a_39d7cd00",
+        "filename": "qcom/camera/ingres-sm8450-camera-sensor.dts",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 36097
+      },
+      "writtenOn": "2025-12-22T12:07:09Z",
+      "side": 1,
+      "message": "https://review.lineageos.org/c/LineageOS/android_kernel_xiaomi_sm8450-devicetrees/+/466131\n\nseems good to me now",
+      "parentUuid": "6f122a16_4bc60a0d",
+      "revId": "4568a29cc48c0489f904efce894250dad93cd372",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
