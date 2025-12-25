@@ -16,6 +16,24 @@
       "message": "I think just merge it into Ibb2e1ee3d7fb937066615341055c9fb84eba632c.",
       "revId": "30bf88500ca8cd093cd458bc1cf562edcc05eb27",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9a547b9d_e1fa4bfe",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36097
+      },
+      "writtenOn": "2025-12-25T08:24:40Z",
+      "side": 1,
+      "message": "I\u0027d rather have the official overlay in the commit history, without any edits.",
+      "parentUuid": "08303ef9_ed416643",
+      "revId": "30bf88500ca8cd093cd458bc1cf562edcc05eb27",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
