@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "be08a912_4191e985",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35507
+      },
+      "writtenOn": "2026-01-07T11:46:06Z",
+      "side": 1,
+      "message": "0a panel AOD works as expected, wait test for 0b panel.",
+      "revId": "ad224ee4f78d65e1d54eacfe4e986e4421d7456d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
