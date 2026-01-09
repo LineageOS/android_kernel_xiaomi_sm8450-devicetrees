@@ -16,6 +16,23 @@
       "message": "0a panel AOD works as expected, wait test for 0b panel.",
       "revId": "ad224ee4f78d65e1d54eacfe4e986e4421d7456d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ba937d6b_2739d286",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35507
+      },
+      "writtenOn": "2026-01-09T03:42:01Z",
+      "side": 1,
+      "message": "AOD still works as expected in 0b panel.",
+      "revId": "ad224ee4f78d65e1d54eacfe4e986e4421d7456d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
