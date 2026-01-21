@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7892f093_4bd5eefd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36466
+      },
+      "writtenOn": "2026-01-21T17:06:58Z",
+      "side": 1,
+      "message": "Commit metadata and Change-Id\u0027s seem incorrect. If that okay with you @arian.kulmer@web.de",
+      "revId": "4fc5841c3da2fb4ea11d1a1909e0e1b927898e92",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
