@@ -22,6 +22,30 @@
       },
       "revId": "9f5aa8aff7e163aa1ba99fe3a802f985fb964d54",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ad049fb5_7c3a34cd",
+        "filename": "qcom/camera/ingres-sm8450-camera-sensor.dtsi",
+        "patchSetId": 3
+      },
+      "lineNbr": 152,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2026-02-18T11:44:43Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "093de9c8_c98a3f43",
+      "range": {
+        "startLine": 152,
+        "startChar": 0,
+        "endLine": 152,
+        "endChar": 1
+      },
+      "revId": "9f5aa8aff7e163aa1ba99fe3a802f985fb964d54",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
