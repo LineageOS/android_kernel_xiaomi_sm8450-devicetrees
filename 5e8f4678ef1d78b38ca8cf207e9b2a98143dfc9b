@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ccbf1851_91706163",
+        "filename": "qcom/ingres-sm8450.dtsi",
+        "patchSetId": 2
+      },
+      "lineNbr": 288,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2026-02-18T09:34:35Z",
+      "side": 1,
+      "message": "```suggestion\n\t\tcompatible \u003d \"xiaomi-gpu-plaid\";\n```",
+      "range": {
+        "startLine": 288,
+        "startChar": 0,
+        "endLine": 288,
+        "endChar": 9
+      },
+      "revId": "5e8f4678ef1d78b38ca8cf207e9b2a98143dfc9b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
