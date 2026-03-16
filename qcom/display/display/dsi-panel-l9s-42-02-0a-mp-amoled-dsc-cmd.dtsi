@@ -570,6 +570,7 @@
 	mi,max-brightness-clone = <4095>;
 	mi,mdss-dsi-fac-bl-max-level = <2047>;
 	mi,mdss-fac-brightness-max-level = <2047>;
+	mi,panel-hbm-backlight-threshold = <2047>;
 	mi,thermal-dimming-flag;
 	mi,mdss-dsi-panel-dc-type = <0>;
 
