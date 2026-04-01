@@ -316,7 +316,6 @@
 			<&rt17xx_pd PSY_IIO_RT_TYPEC_ACCESSORY_MODE>,
 			<&rt17xx_pd PSY_IIO_RT_TYPEC_ADAPTER_ID>,
 
-			<&pmk8350_vadc PMK8350_ADC7_AMUX_THM2_100K_PU>,
 			<&pmk8350_vadc PMK8350_ADC7_AMUX_THM3_100K_PU>;
 
 		io-channel-names = "ln_present",
@@ -415,7 +414,6 @@
 			"rt_typec_accessory_mode",
 			"rt_typec_adapter_id",
 
-			"chg_pump_therm",
 			"typec_conn_therm";
 	};
 };
