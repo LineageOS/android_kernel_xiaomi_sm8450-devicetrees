@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "33b1f355_4397aa82",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-04-20T10:10:23Z",
+      "side": 1,
+      "message": "compatible \u003d \"awinic,awinic_haptic\";\n\nreverse dtbo",
+      "revId": "50fdbd1ea8ad275c93bd8bc75aa2c9247a6c37a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "55ac9832_68b5a779",
+        "filename": "qcom/ingres-sm8450.dtsi",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-04-20T10:10:23Z",
+      "side": 1,
+      "message": "compatible \u003d \"awinic,awinic_haptic\"",
+      "range": {
+        "startLine": 14,
+        "startChar": 0,
+        "endLine": 14,
+        "endChar": 39
+      },
+      "revId": "50fdbd1ea8ad275c93bd8bc75aa2c9247a6c37a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
