@@ -16,6 +16,23 @@
       "message": "not works ziyi",
       "revId": "9b50d1f4120984e897ca5c0607dfd586acfc3e9b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1ee26bad_d4723d4a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-08-18T09:11:07Z",
+      "side": 1,
+      "message": "workoraund \n\n\tmem-offline {\n\t\tcompatible \u003d \"qcom,mem-offline\";\n\t\toffline-sizes \u003d \u003c0x1 0x40000000 0x0 0x40000000\u003e,\n\t\t\t\t\u003c0x1 0xc0000000 0x0 0x00000000\u003e,\n\t\t\t\t\u003c0x2 0xc0000000 0x1 0x40000000\u003e;\n\t\tgranule \u003d \u003c512\u003e;\n\t\tmboxes \u003d \u003c\u0026qmp_aop 0\u003e;\n\t};",
+      "revId": "9b50d1f4120984e897ca5c0607dfd586acfc3e9b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
