@@ -51,6 +51,23 @@
       "parentUuid": "1ee26bad_d4723d4a",
       "revId": "9b50d1f4120984e897ca5c0607dfd586acfc3e9b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c60f2c87_c526a787",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2026-08-18T10:00:47Z",
+      "side": 1,
+      "message": "If you rebuild DTBO after this commit, please make sure to delete out/target/product/ziyi/obj/DTBO_OBJ or do a clean build. There is no reason ziyi should be different than any other device here. Also make sure to verify the deletion of the node in sys/firmware/devicetree",
+      "revId": "9b50d1f4120984e897ca5c0607dfd586acfc3e9b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
