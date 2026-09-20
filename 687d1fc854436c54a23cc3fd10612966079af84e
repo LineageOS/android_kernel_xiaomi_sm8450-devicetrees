@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6a728553_c6a89745",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2026-09-20T16:34:37Z",
+      "side": 1,
+      "message": "you don\u0027t need to delete the timing *and* add /delete-node/.\n\nPlease do it like https://github.com/LineageOS/android_kernel_xiaomi_sm8450-devicetrees/commit/373e6605c05ac0fcef9b6d98e95723b20d323a37",
+      "revId": "687d1fc854436c54a23cc3fd10612966079af84e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
