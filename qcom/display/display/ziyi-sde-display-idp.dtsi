@@ -152,6 +152,8 @@
 			qcom,display-topology = <1 1 1>;
 			qcom,default-topology-index = <0>;
 		};
+		/* ZIYI: remove 90Hz mode */
+		/delete-node/ timing@2;
 	};
 };
 
@@ -183,6 +185,8 @@
 			qcom,display-topology = <1 1 1>;
 			qcom,default-topology-index = <0>;
 		};
+		/* ZIYI: remove 90Hz mode */
+		/delete-node/ timing@2;
 	};
 };
 
@@ -214,6 +218,8 @@
 			qcom,display-topology = <1 1 1>;
 			qcom,default-topology-index = <0>;
 		};
+		/* ZIYI: remove 90Hz mode */
+		/delete-node/ timing@2;
 	};
 };
 
