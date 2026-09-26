@@ -16,13 +16,11 @@
 			linux,can-disable;
 		};
 	};
+};
 
-	mtdoops_pmsg@0xa7000000 {
-		compatible = "mtdoops_pmsg";
-		reg = <0xa7000000 0x400000>;
-		console-size = <0x200000>;
-		pmsg-size = <0x200000>;
-	};
+&ramoops_mem {
+	compatible = "qcom,disabled-ramoops";
+	status = "disabled";
 };
 
 &reserved_memory {
@@ -30,10 +28,11 @@
 	#size-cells = <2>;
 	ranges;
 
-	ramoops@0xa7000000 {
-	    compatible = "ramoops";
-		reg = <0x0 0xa7000000 0x0 0x400000>;
-		console-size = <0x200000>;
-		pmsg-size = <0x200000>;
+	ramoops@a7300000 {
+		compatible = "ramoops";
+		reg = <0x0 0xa7300000 0x0 0x100000>;
+		record-size = <0x80000>;
+		console-size = <0x80000>;
+		max-reason = <2>;
 	};
 };
